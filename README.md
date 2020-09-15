@@ -1,10 +1,6 @@
-<h1> Hi there..! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
+<h1> Hi there..!  </h1>
 
-<!--
-**piyushP7pravin/piyushP7pravin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
 <!-- **🔭 I’m currently working on my <a href="https://www.piyushp7pravin.tech/"><b>Portfolio Website</b> </a> and Twitter Sentiment Analysis Project**<br> -->
 **🌱 I’m currently learning Front-end Development **
 <br>
@@ -12,8 +8,9 @@ Here are some ideas to get you started:
 **✨ Tech's currently using** <br>
 <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/postgresql.svg"></a></code>
 <code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
+<code><a href="https://www.djangoproject.com/" target = "_blank"><img height="50" src ="https://cdn.svgporn.com/logos/django.svg"></a></code>
 <br>
 <!-- <br>
 <br>
