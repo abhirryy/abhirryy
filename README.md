@@ -12,13 +12,13 @@
 <code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 <code><a href="https://www.djangoproject.com/" target = "_blank"><img height="50" src ="https://cdn.svgporn.com/logos/django.svg"></a></code>
 <br>
-<!-- <br>
+<br>
 <br>
 **🌱 Looking forward to learn:** <br>
 <br>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<br>-->
+<br>
 <br>
 <br>
 **💬 My inbox is always open, Contact me**
