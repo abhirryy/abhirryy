@@ -7,9 +7,9 @@
 <br>
 **✨ Tech's currently using** <br>
 <br>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/python.svg"></a></code>
 <code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/postgresql.svg"></a></code>
-<code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
+<code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/sqlite.svg"></a></code>
 <code><a href="https://www.djangoproject.com/" target = "_blank"><img height="50" src ="https://cdn.svgporn.com/logos/django.svg"></a></code>
 <br>
 <br>
