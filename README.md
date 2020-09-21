@@ -11,8 +11,8 @@
 <code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/postgresql.svg"></a></code>
 <code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/sqlite.svg"></a></code>
 <code><a href="https://www.djangoproject.com/" target = "_blank"><img height="50" src ="https://cdn.svgporn.com/logos/django.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/javascript.svg"></a></code> **<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>**
-<code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/javascript.svg"></a></code> 
+<!--<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code> -->
 <a href="https://www.w3.org/TR/CSS/" target="_blank"> <img height ="50" src="https://cdn.svgporn.com/logos/css-3.svg"></a></code>
 <br>
 <br>
