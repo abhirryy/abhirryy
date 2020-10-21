@@ -14,6 +14,7 @@
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/javascript.svg"></a></code> 
 <!--<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code> -->
 <a href="https://www.w3.org/TR/CSS/" target="_blank"> <img height ="50" src="https://cdn.svgporn.com/logos/css-3.svg"></a></code>
+<a href="https://html.spec.whatwg.org/" target="_blank"> <img height ="50" src="https://cdn.svgporn.com/logos/html-5.svg"></a></code>
 <br>
 <br>
 <br>
