@@ -16,13 +16,13 @@
 <!--<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code> -->
 <a href="https://www.w3.org/TR/CSS/" target="_blank"> <img height ="50" src="https://cdn.svgporn.com/logos/css-3.svg"></a></code>
 <a href="https://html.spec.whatwg.org/" target="_blank"> <img height ="50" src="https://cdn.svgporn.com/logos/html-5.svg"></a></code>
-<br>
+<!-- <br>
 <br>
 <br>
 **🌱 Looking forward to learn:** <br>
 <br>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<br>
+<br> -->
 <br>
 <br>
 **💬 My inbox is always open, Contact me**
