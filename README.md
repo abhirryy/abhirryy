@@ -31,10 +31,10 @@
   <a href="https://www.linkedin.com/in/bhattaabhishek/">
    <img align="left" alt="Abhishek Bhatta | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
-  <a href="mailto:bhatta.abishek11@gmail.com">
+  <a href="mailto:abhiibhatta@gmail.com">
     <img align="left" alt="Abhishek Bhatta | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
-  <a href="https://twitter.com/Abhishek9860480">
+  <a href="https://twitter.com/username_Abh">
     <img align="left" alt="Abhishek Bhatta | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/username_abh/">
